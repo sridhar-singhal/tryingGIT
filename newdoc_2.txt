@@ -1,0 +1,3 @@
+This is the second doc placed in new branch 1 originally
+msg 1
+msg 2
